@@ -1,9 +1,9 @@
-### Image Caption Generator with Scalable Training Method
+# Image Caption Generator with Scalable Training Method
 A repository for practice of Tensoflow
 
 ## References
-[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
-[yunjey](https://github.com/yunjey)'s implementation: https://github.com/yunjey/show-attend-and-tell
+<br>[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)</br>
+<br>[yunjey](https://github.com/yunjey)'s implementation: https://github.com/yunjey/show-attend-and-tell<br>
 
 
 ## Prerequisites
