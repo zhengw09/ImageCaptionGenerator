@@ -3,3 +3,6 @@
 model/*
 image/*
 data/*.mat
+data/*/*.pkl
+data/*/*.hkl
+data/*/*.json

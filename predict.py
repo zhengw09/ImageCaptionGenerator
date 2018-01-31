@@ -45,7 +45,7 @@ def main():
     solver = CaptioningSolver(model, data, None, n_epochs=5, batch_size=5, learning_rate=0.001, print_every=1,\
      save_every=1, image_path='./image/pred_resized', model_path='./model/lstm', test_model='./model/lstm/model-5')
 
-    solver.test(data, display=True) # display True to print results in terminal
+    return solver.test(data, display=True) # display True to print results in terminal
 
 
 if __name__ == '__main__':

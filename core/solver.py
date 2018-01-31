@@ -142,6 +142,8 @@ class CaptioningSolver(object):
                     if display:
                         print(caption)
                     f.write(image_files[i].split('/')[-1] + '#pred ' + caption[0].upper() + caption[1:] + '\n')
+            return caption
+
 
 
     def get_bleu(self, data_path, split):
